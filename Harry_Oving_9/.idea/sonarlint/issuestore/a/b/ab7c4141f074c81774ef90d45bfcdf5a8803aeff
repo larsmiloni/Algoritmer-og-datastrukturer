@@ -1,0 +1,87 @@
+
+M
+java:S1066"/Merge this if statement with the enclosing one.(ûÿ­8¯ô®ï¾1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†ˆ®8±ô®ï¾1
+0
+java:S1220""Move this file to a named package.
+O
+java:S1199%"-Extract this nested code block into a method.(Î€ä‚şÿÿÿÿ8¶ô®ï¾1
+O
+java:S1199;"-Extract this nested code block into a method.(Î€ä‚şÿÿÿÿ8¶ô®ï¾1
+e
+java:S2259="CA "NullPointerException" could be thrown; "nodes" is nullable here.(Òçœøÿÿÿÿÿ8åõ®ï¾1
+`
+java:S2259'"CA "NullPointerException" could be thrown; "nodes" is nullable here.(™Êñé8åõ®ï¾1
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©šêš8æõ®ï¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹¼·ùÿÿÿÿ8æõ®ï¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯©îôûÿÿÿÿ8æõ®ï¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õæöòúÿÿÿÿ8çõ®ï¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏÇ÷›ıÿÿÿÿ8çõ®ï¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êõÎûıÿÿÿÿ8çõ®ï¾1
+i
+java:S1854"GRemove this useless assignment to local variable "greenstarhotellahti".(ªÅšéøÿÿÿÿ8ëõ®ï¾1
+\
+java:S1854"?Remove this useless assignment to local variable "selbustrand".(È“àæ8ëõ®ï¾1
+M
+java:S1481"0Remove this unused "selbustrand" local variable.(È“àæ8ëõ®ï¾1
+Z
+java:S1481"8Remove this unused "greenstarhotellahti" local variable.(ªÅšéøÿÿÿÿ8ìõ®ï¾1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(³ÍÑûüÿÿÿÿ8îõ®ï¾1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¦Ùµó8ïõ®ï¾1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(º…ş¹8ïõ®ï¾1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(°Â¤8ñõ®ï¾1
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(–ŸŠÓ8òõ®ï¾1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(º…ş¹8óõ®ï¾1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Íô‰ä8ôõ®ï¾1
+G
+java:S1481W"*Remove this unused "count" local variable.(æÕ¿¼8õõ®ï¾1
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(Øß¶½8õõ®ï¾1
+]	java:S125Y"<This block of commented-out lines of code should be removed.(åùœşÿÿÿÿ8õõ®ï¾1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(§˜ª»ùÿÿÿÿ8÷õ®ï¾1
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¸ò›8øõ®ï¾1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ë²ÿÈ8ùõ®ï¾1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(âüü™8ùõ®ï¾1
+h	java:S116z"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä­×À8úõ®ï¾1
+h	java:S116z"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä­×À8úõ®ï¾1
+<
+java:S1659z"Declare "E" on a separate line.(ä­×À8üõ®ï¾1
+m
+java:S1659{"PDeclare "distanceToLandmarks" and all following declarations on a separate line.(Ş®ßš8ıõ®ï¾1
+D
+java:S1659|"'Declare "landmarks" on a separate line.(‡œ˜8ıõ®ï¾1
+p	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‡¿àşÿÿÿÿ8‚ö®ï¾1
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÙÃçÂ8„ö®ï¾1
+U	java:S106Á"9Replace this use of System.out or System.err by a logger.(Ë…ä8†ö®ï¾1
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(Éâæîÿÿÿÿÿ8‡ö®ï¾1
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(åÙàÿÿÿÿÿ8ˆö®ï¾1
+W
+java:S1117û"9Rename "node" which hides the field declared at line 124.(œšı´8‰ö®ï¾1
+J
+java:S1172Ò",Remove this unused method parameter "nodes".(ƒëÜÈ8ö®ï¾1
+>
+java:S1659Ö" Declare "md" on a separate line.(ˆ€ô’8ö®ï¾1
+>
+java:S1659æ" Declare "md" on a separate line.(ˆ€ô’8ö®ï¾1
+>
+java:S1659ò" Declare "md" on a separate line.(ûÇù8‘ö®ï¾1
+a
+java:S1659ó"CDeclare "length" and all following declarations on a separate line.(Ğ‡¹İ8ö®ï¾1
+h
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(»âØÛıÿÿÿÿ8 ö®ï¾1
+c
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(­ğ8¡ö®ï¾1
+c
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(æ×¦ñ8¡ö®ï¾1
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ª°Îÿÿÿÿÿ8¡ö®ï¾1
+h
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(Š€»Áıÿÿÿÿ8¡ö®ï¾1
+c
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(‡½–æ8¢ö®ï¾1
+@
+java:S1659À""Declare "type" on a separate line.(·Î¿8¥ö®ï¾1
+B
+java:S1659Ä"$Declare "isGoal" on a separate line.(õ—Ê8¦ö®ï¾1
+=
+java:S1659Å"Declare "y" on a separate line.(ü¼â’8¦ö®ï¾1

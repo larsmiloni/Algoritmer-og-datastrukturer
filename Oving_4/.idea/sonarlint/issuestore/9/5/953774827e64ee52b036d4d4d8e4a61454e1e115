@@ -1,0 +1,13 @@
+
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äïÛÜ
+0
+java:S1220""Move this file to a named package.
+[
+java:S2259B"EA "NullPointerException" could be thrown; "forrige" is nullable here.(İßì
+z
+java:S41658"eRemove this useless assignment; "forrige" already holds the assigned value along all execution paths.(™È¸k
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(‹®¹üÿÿÿÿ
+h	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸–¤áùÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Ïõˆİùÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(à‰›
